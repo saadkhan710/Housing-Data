@@ -13,7 +13,6 @@ This project presents an **Exploratory Data Analysis (EDA)** of the *Homelessnes
 
 - `Homeless_EDA.ipynb`: Jupyter notebook containing data cleaning, visualizations, and insights.
 - `homeless_data.csv`: Cleaned dataset used for EDA (if applicable).
-- `plots/`: Directory for saved plots and visuals (if created).
 
 ## 🔍 Key Insights
 
@@ -29,7 +28,6 @@ This project presents an **Exploratory Data Analysis (EDA)** of the *Homelessnes
 - Pandas  
 - Matplotlib / Seaborn  
 - Jupyter Notebook  
-- GeoPandas (if geospatial classification used)
 
 ## 🌍 Civic Impact
 
