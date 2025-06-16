@@ -5,6 +5,7 @@ This project presents an **Exploratory Data Analysis (EDA)** of the *Homelessnes
 ## 📊 Dataset Overview
 
 - **Source**: https://data.gov.ie/dataset/homelessness-report-march-2025
+- **MVP**: https://homelessness-dashboard-ie.streamlit.app/
 - **Publisher**: Department of Housing, Local Government, and Heritage  
 - **License**: Creative Commons Attribution Share-Alike 4.0  
 - **Description**: Monthly official homelessness data reported via the PASS (Pathway Accommodation & Support System), detailing individuals in emergency accommodation, categorized by region, age, and accommodation type.
